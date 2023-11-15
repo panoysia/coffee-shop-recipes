@@ -1,6 +1,7 @@
 # White Chocolate Mocha​
 
-## Description: Espresso meets white chocolate in this classic drink. Top it off with a dollop of whipped cream for a sweet, creamy beverage that delights with every sip
+## Description: Espresso meets white chocolate in this classic drink. Top it off with a dollop of whipped cream for a sweet, creamy beverage that delights with every sip. And pairs perfectly with an almond croissant.
+
 
 ## Ingredients
 
@@ -25,7 +26,7 @@
 
 ### Step 4
 
-- Froth 2% milk using your preferred method.
+- Froth whole milk using your preferred method.
 
 ### Step 5
 
